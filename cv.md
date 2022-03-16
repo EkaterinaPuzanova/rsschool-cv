@@ -11,3 +11,5 @@
 * Now I am a RS-School student (Statistics: JavaScript/Front-end 2022Q1)
 ### **About me**
 Gratuated from the magistracy with distinction.
+### **Estimated English level**
+A1 - A2 (level up my English on Duolingo)
