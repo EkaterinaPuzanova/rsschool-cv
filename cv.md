@@ -9,3 +9,5 @@
 * 2014 Volgograd State Technical University / Automobile transport
 * 2022 The rolling scopes school / JS/FE Pre-School
 * Now I am a RS-School student (Statistics: JavaScript/Front-end 2022Q1)
+### **About me**
+Gratuated from the magistracy with distinction.
